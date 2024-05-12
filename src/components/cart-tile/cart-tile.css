@@ -1,0 +1,43 @@
+.tile-container{
+ display: flex;
+ background: bisque;
+ width: 500px;
+ align-items: center;
+ justify-content: space-between;
+ padding: 20px;
+ margin:8px auto;
+ border-radius: 12px;
+ 
+}
+.flex-padding{
+	display: flex;
+	padding: 8px;
+	align-items: center;
+	justify-content: space-between;
+}
+.rounded-box{
+	width: 100px;
+	height: 100px;
+	
+}
+.bold-red-btn{
+	background: coral;
+	padding: 15px 20px;
+	border-radius: 12px;
+	border: 0.5px solid;
+	font-size: 16px;
+	font-weight: bold;
+}
+.title-content{
+	width: 150px;
+	margin-left: 30px;
+}
+
+.title-content h1{
+	font-size: 1.25rem;
+	color: white;
+	
+}
+.title-content p{
+	color: white;
+}
